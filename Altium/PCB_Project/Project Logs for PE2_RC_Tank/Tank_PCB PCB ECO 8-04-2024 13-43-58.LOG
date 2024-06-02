@@ -1,0 +1,9 @@
+Added Component: Designator=D1(INS21AT2G)
+Added Component: Designator=D2(INS21AT2G)
+Added Pin To Net: NetName=SGND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=SGND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Add Pin To Net: Unknown Pin: Pin J9-2
+Added Member To Class: ClassName=Main_Board_Tank Member=Component D1 LED 1608 (0603) SMD
+Added Member To Class: ClassName=Main_Board_Tank Member=Component D2 LED 1608 (0603) SMD

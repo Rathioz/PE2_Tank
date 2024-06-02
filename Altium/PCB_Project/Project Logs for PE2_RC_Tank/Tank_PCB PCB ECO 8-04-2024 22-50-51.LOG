@@ -1,0 +1,91 @@
+Removed Member From Class: ClassName=Motor_Driver Member=Motor0
+Removed Member From Class: ClassName=Motor_Driver Member=Motor1
+Removed Member From Class: ClassName=Servo_Driver Member=Servo0
+Removed Member From Class: ClassName=Servo_Driver Member=Servo1
+Change Component Designator: OldDesignator=C1_Motor0 NewDesignator=C1_M0
+Change Component Designator: OldDesignator=C1_Motor1 NewDesignator=C1_M1
+Change Component Designator: OldDesignator=C2_Motor0 NewDesignator=C2_M0
+Change Component Designator: OldDesignator=C2_Motor1 NewDesignator=C2_M1
+Change Component Designator: OldDesignator=C3_Motor0 NewDesignator=C3_M0
+Change Component Designator: OldDesignator=C3_Motor1 NewDesignator=C3_M1
+Change Component Designator: OldDesignator=C4_Motor0 NewDesignator=C4_M0
+Change Component Designator: OldDesignator=C4_Motor1 NewDesignator=C4_M1
+Change Component Designator: OldDesignator=C5_Motor0 NewDesignator=C5_M0
+Change Component Designator: OldDesignator=C5_Motor1 NewDesignator=C5_M1
+Change Component Designator: OldDesignator=C6_Servo0 NewDesignator=C6_S0
+Change Component Designator: OldDesignator=C6_Servo1 NewDesignator=C6_S1
+Change Component Designator: OldDesignator=C7_Servo0 NewDesignator=C7_S0
+Change Component Designator: OldDesignator=C7_Servo1 NewDesignator=C7_S1
+Change Component Designator: OldDesignator=C8_Servo0 NewDesignator=C8_S0
+Change Component Designator: OldDesignator=C8_Servo1 NewDesignator=C8_S1
+Change Component Designator: OldDesignator=C9_Servo0 NewDesignator=C9_S0
+Change Component Designator: OldDesignator=C9_Servo1 NewDesignator=C9_S1
+Change Component Designator: OldDesignator=J1_Motor0 NewDesignator=J1_M0
+Change Component Designator: OldDesignator=J1_Motor1 NewDesignator=J1_M1
+Change Component Designator: OldDesignator=J4_Servo0 NewDesignator=J4_S0
+Change Component Designator: OldDesignator=J4_Servo1 NewDesignator=J4_S1
+Change Component Designator: OldDesignator=J5_Servo0 NewDesignator=J5_S0
+Change Component Designator: OldDesignator=J5_Servo1 NewDesignator=J5_S1
+Change Component Designator: OldDesignator=Q1_Servo0 NewDesignator=Q1_S0
+Change Component Designator: OldDesignator=Q1_Servo1 NewDesignator=Q1_S1
+Change Component Designator: OldDesignator=Q2_Servo0 NewDesignator=Q2_S0
+Change Component Designator: OldDesignator=Q2_Servo1 NewDesignator=Q2_S1
+Change Component Designator: OldDesignator=R1_Motor0 NewDesignator=R1_M0
+Change Component Designator: OldDesignator=R1_Motor1 NewDesignator=R1_M1
+Change Component Designator: OldDesignator=R2_Motor0 NewDesignator=R2_M0
+Change Component Designator: OldDesignator=R2_Motor1 NewDesignator=R2_M1
+Change Component Designator: OldDesignator=R3_Motor0 NewDesignator=R3_M0
+Change Component Designator: OldDesignator=R3_Motor1 NewDesignator=R3_M1
+Change Component Designator: OldDesignator=R4_Servo0 NewDesignator=R4_S0
+Change Component Designator: OldDesignator=R4_Servo1 NewDesignator=R4_S1
+Change Component Designator: OldDesignator=R5_Servo0 NewDesignator=R5_S0
+Change Component Designator: OldDesignator=R5_Servo1 NewDesignator=R5_S1
+Change Component Designator: OldDesignator=R6_Servo0 NewDesignator=R6_S0
+Change Component Designator: OldDesignator=R6_Servo1 NewDesignator=R6_S1
+Change Component Designator: OldDesignator=R7_Servo0 NewDesignator=R7_S0
+Change Component Designator: OldDesignator=R7_Servo1 NewDesignator=R7_S1
+Change Component Designator: OldDesignator=R8_Servo0 NewDesignator=R8_S0
+Change Component Designator: OldDesignator=R8_Servo1 NewDesignator=R8_S1
+Change Component Designator: OldDesignator=R9_Servo0 NewDesignator=R9_S0
+Change Component Designator: OldDesignator=R9_Servo1 NewDesignator=R9_S1
+Change Component Designator: OldDesignator=R10_Servo0 NewDesignator=R10_S0
+Change Component Designator: OldDesignator=R10_Servo1 NewDesignator=R10_S1
+Change Component Designator: OldDesignator=R11_Servo0 NewDesignator=R11_S0
+Change Component Designator: OldDesignator=R11_Servo1 NewDesignator=R11_S1
+Change Component Designator: OldDesignator=U2_Motor0 NewDesignator=U2_M0
+Change Component Designator: OldDesignator=U2_Motor1 NewDesignator=U2_M1
+Change Component Designator: OldDesignator=U4_Servo0 NewDesignator=U4_S0
+Change Component Designator: OldDesignator=U4_Servo1 NewDesignator=U4_S1
+Change Net Name : Old Net Name=NetC1_Motor0_1 New Net Name=NetC1_M0_1
+Change Net Name : Old Net Name=NetC1_Motor1_1 New Net Name=NetC1_M1_1
+Change Net Name : Old Net Name=NetC7_Servo0_2 New Net Name=NetC7_S0_2
+Change Net Name : Old Net Name=NetC7_Servo1_2 New Net Name=NetC7_S1_2
+Change Net Name : Old Net Name=NetC8_Servo0_2 New Net Name=NetC8_S0_2
+Change Net Name : Old Net Name=NetC8_Servo1_2 New Net Name=NetC8_S1_2
+Change Net Name : Old Net Name=NetJ4_Servo0_2 New Net Name=NetJ4_S0_2
+Change Net Name : Old Net Name=NetJ4_Servo1_2 New Net Name=NetJ4_S1_2
+Change Net Name : Old Net Name=NetJ5_Servo0_2 New Net Name=NetJ5_S0_2
+Change Net Name : Old Net Name=NetJ5_Servo1_2 New Net Name=NetJ5_S1_2
+Change Net Name : Old Net Name=NetQ1_Servo0_1 New Net Name=NetQ1_S0_1
+Change Net Name : Old Net Name=NetQ1_Servo1_1 New Net Name=NetQ1_S1_1
+Change Net Name : Old Net Name=NetQ2_Servo0_1 New Net Name=NetQ2_S0_1
+Change Net Name : Old Net Name=NetQ2_Servo1_1 New Net Name=NetQ2_S1_1
+Change Net Name : Old Net Name=NetR6_Servo0_2 New Net Name=NetR6_S0_2
+Change Net Name : Old Net Name=NetR6_Servo1_2 New Net Name=NetR6_S1_2
+Change Net Name : Old Net Name=NetR8_Servo0_2 New Net Name=NetR8_S0_2
+Change Net Name : Old Net Name=NetR8_Servo1_2 New Net Name=NetR8_S1_2
+Change Net Name : Old Net Name=Osc_Motor0 New Net Name=Osc_M0
+Change Net Name : Old Net Name=Osc_Motor1 New Net Name=Osc_M1
+Change Net Name : Old Net Name=Out1_Motor0 New Net Name=Out1_M0
+Change Net Name : Old Net Name=Out1_Motor1 New Net Name=Out1_M1
+Change Net Name : Old Net Name=Out2_Motor0 New Net Name=Out2_M0
+Change Net Name : Old Net Name=Out2_Motor1 New Net Name=Out2_M1
+Change Class Name : Old Net Name=Motor0 New Net Name=M0
+Change Class Name : Old Net Name=Motor1 New Net Name=M1
+Change Class Name : Old Net Name=Servo0 New Net Name=S0
+Change Class Name : Old Net Name=Servo1 New Net Name=S1
+Added Member To Class: ClassName=Out_Inputs Member=Component J9 801-93-002-10-012000
+Added Member To Class: ClassName=Motor_Driver Member=M0 (Motor_Driver.SchDoc)
+Added Member To Class: ClassName=Motor_Driver Member=M1 (Motor_Driver.SchDoc)
+Added Member To Class: ClassName=Servo_Driver Member=S0 (Servo_Driver.SchDoc)
+Added Member To Class: ClassName=Servo_Driver Member=S1 (Servo_Driver.SchDoc)

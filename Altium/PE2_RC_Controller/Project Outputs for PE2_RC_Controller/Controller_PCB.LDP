@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\robin\OneDrive\Thomas more\Thomas more 2023 - 2024\Tweede Semester\PE2\Altium\PE2_RC_Controller\Controller_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=controller_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=controller_pcb-squareholes.txt|DrillLayers=gtl,gbl

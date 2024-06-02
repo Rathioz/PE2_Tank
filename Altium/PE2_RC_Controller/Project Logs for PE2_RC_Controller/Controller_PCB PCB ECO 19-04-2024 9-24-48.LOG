@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R6 Old Comment=1.5k New Comment=6k8
+Change Component Comment : Designator=R5 Old Comment=5.6k New Comment=12k
+Added Component: Designator=J8(801-93-002-10-012000)
+Add component (AddParameter): Name = "Mouser"; Value = "575-8019300210012000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Member To Class: ClassName=Out_Inputs Member=Component J8 801-93-002-10-012000

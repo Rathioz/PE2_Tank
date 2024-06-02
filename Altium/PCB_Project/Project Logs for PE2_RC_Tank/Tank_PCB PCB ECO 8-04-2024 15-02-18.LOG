@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SCL Pin=J9-1
+Removed Pin From Net: NetName=SCL Pin=J9-1
+Added Component: Designator=J9(801-93-002-10-012000)
+Add component (AddParameter): Name = "Mouser"; Value = "575-8019300210012000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL Pin=J9-1
+Added Pin To Net: NetName=SCL Pin=J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2

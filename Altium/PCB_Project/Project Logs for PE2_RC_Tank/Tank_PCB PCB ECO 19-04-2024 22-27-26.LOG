@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+6V Pin=C9_S0-1
+Removed Pin From Net: NetName=PGND Pin=C9_S0-2
+Removed Pin From Net: NetName=+6V Pin=C9_S1-1
+Removed Pin From Net: NetName=PGND Pin=C9_S1-2
+Removed Pin From Net: NetName=+2V5 Pin=C16-1
+Removed Pin From Net: NetName=PGND Pin=C16-2
+Change Component Footprint: Designator=C9_S0 Old Footprint=Capacitor 0603 New Footprint=Cap_1210
+Change Component Footprint: Designator=C9_S1 Old Footprint=Capacitor 0603 New Footprint=Cap_1210
+Change Component Footprint: Designator=C16 Old Footprint=Capacitor 0603 New Footprint=Cap_1210
+Change Component Comment : Designator=R22 Old Comment=10k New Comment=100
+Change Component Comment : Designator=L1 Old Comment=7447730 New Comment=74477310
+Added Pin To Net: NetName=PGND Pin=C9_S0-1
+Added Pin To Net: NetName=+6V Pin=C9_S0-2
+Added Pin To Net: NetName=PGND Pin=C9_S1-1
+Added Pin To Net: NetName=+6V Pin=C9_S1-2
+Added Pin To Net: NetName=PGND Pin=C16-1
+Added Pin To Net: NetName=+2V5 Pin=C16-2

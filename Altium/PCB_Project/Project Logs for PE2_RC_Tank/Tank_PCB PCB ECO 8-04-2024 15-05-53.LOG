@@ -1,0 +1,3 @@
+Added Component: Designator=J9(801-93-002-10-012000)
+Add component (AddParameter): Name = "Mouser"; Value = "575-8019300210012000"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Out_Inputs Member=Component J9 801-93-002-10-012000
